@@ -20,10 +20,3 @@ vendor/   ・・・PHPの依存パッケージ（Apacheの場合は.htaccessを�
 
 - 上記の `.htaccess` はアクセス制御に使用することを目的としている。
 
-
-参考
--------
-
-- [PHP: PDO - Manual](http://php.net/manual/ja/book.pdo.php)
-- [PHPのセキュリティ対策 – ラボラジアン](https://laboradian.com/sec-php/#3_SQL)
-
